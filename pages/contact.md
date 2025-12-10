@@ -13,8 +13,9 @@ blocks:
     description: Have questions about our solutions? Want to schedule a demo? Our team is here to help you find the right solution for your business.
     formAction: https://formspree.io/f/YOUR_FORM_ID
     email: info@amistausa.com
-    phone: "+1 (800) 555-0123"
-    location: United States
+    phone: +1-404-446-1477
+    location: 5555 Glenridge Connector, Suite 200 
+        GA 30342 Atlanta
     quickLinks:
       - text: Learn about SAP Business One
         link: /solutions/sap-business-one
