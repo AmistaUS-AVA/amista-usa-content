@@ -15,6 +15,7 @@ blocks:
       link: /solutions
     stats:
       align: center
+      items:
       - value: "2500+"
         label: Users served
       - value: "15+"
