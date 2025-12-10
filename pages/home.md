@@ -6,7 +6,7 @@ blocks:
   - type: hero
     badge: SAP Gold Partner
     headline: "Automate your business processes with <span class='gradient-text'>Amista USA</span>"
-    subheadline: Technology should simplify complexity and drive sustainable growth. We help clients unlock software investment value through SAP solutions and digital process optimization. TEST.
+    subheadline: Technology should simplify complexity and drive sustainable growth. We help clients unlock software investment value through SAP solutions and digital process optimization.
     primaryCta:
       text: Book a Meeting
       link: /contact
