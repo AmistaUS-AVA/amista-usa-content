@@ -5,8 +5,21 @@ description: Get in touch with Amista USA. We'd love to hear from you.
 blocks:
   - type: hero
     badge: Get In Touch
-    headline: "Ready to transform your business? <span class='gradient-text'>We'd love to hear from you.</span>"
-    subheadline: Fill out the form below or reach out directly. Our team typically responds within 24 business hours.
----
+    headline: "Let's Start a <span class='gradient-text'>Conversation</span>"
+    subheadline: Have questions about our solutions? Want to schedule a demo? Our team is here to help you find the right solution for your business.
 
-<!-- Contact form will be handled separately in the page template -->
+  - type: contact
+    title: Get in Touch
+    description: Have questions about our solutions? Want to schedule a demo? Our team is here to help you find the right solution for your business.
+    formAction: https://formspree.io/f/YOUR_FORM_ID
+    email: info@amistausa.com
+    phone: "+1 (800) 555-0123"
+    location: United States
+    quickLinks:
+      - text: Learn about SAP Business One
+        link: /solutions/sap-business-one
+      - text: View Our Industries
+        link: /industries
+      - text: Meet Our Team
+        link: /who-we-are
+---
