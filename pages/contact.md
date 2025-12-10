@@ -3,7 +3,7 @@ title: Contact Us
 description: Get in touch with Amista USA. We'd love to hear from you.
 
 blocks:
-  - type: features
+  - type: hero
     badge: Get In Touch
     headline: "Let's Start a <span class='gradient-text'>Conversation</span>"
     subheadline: Have questions about our solutions? Want to schedule a demo? Our team is here to help you find the right solution for your business.
