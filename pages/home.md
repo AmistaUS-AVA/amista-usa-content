@@ -14,7 +14,7 @@ blocks:
       text: Explore Solutions
       link: /solutions
     stats:
-    align: center
+      align: center
       - value: "2500+"
         label: Users served
       - value: "15+"
