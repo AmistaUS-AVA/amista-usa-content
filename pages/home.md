@@ -14,10 +14,8 @@ blocks:
       text: Explore Solutions
       link: /solutions
     stats:
-      - value: "500+"
-        label: Projects Delivered
-      - value: "98%"
-        label: Client Satisfaction
+      - value: "2500+"
+        label: Users served
       - value: "15+"
         label: Years Experience
       - value: "24/7"
@@ -36,13 +34,13 @@ blocks:
         link: /solutions/sap-business-one
         linkText: Learn more
       - icon: "🏭"
-        title: Beas Manufacturing
-        description: The leading manufacturing execution system for SAP Business One. Take control of your production with real-time visibility.
+        title: Advanced Manufacturing
+        description: Leading manufacturing execution systems for SAP Business One. Take control of your production with real-time visibility.
         link: /solutions/beas-manufacturing
         linkText: Learn more
       - icon: "📦"
-        title: Produmex WMS
-        description: Complete warehouse management solution for SAP Business One. Optimize your inventory operations with mobile technology.
+        title: Advanced WMS
+        description: Complete warehouse management solutions for SAP Business One. Optimize your inventory operations with mobile technology.
         link: /solutions/produmex-wms
         linkText: Learn more
 
@@ -81,4 +79,3 @@ blocks:
       text: Get Started Today
       link: /contact
 ---
-
