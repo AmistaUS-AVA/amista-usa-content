@@ -165,6 +165,39 @@ blocks:
   # Auto-renders all industries from /industries/*.md
   - type: industries-list
 
+  # ==========================================
+  # SECTION BLOCK
+  # ==========================================
+  # Regular section with white background
+  # Use instead of hero for smaller page sections
+  - type: section
+    badge: Optional Badge                # Optional badge above headline
+    headline: "Section <span class='gradient-text'>Headline</span>"
+    subheadline: Optional supporting text below the headline
+    align: center                        # left, center, or right (default: center)
+    height: medium                       # small, medium, or large (default: medium)
+    primaryCta:                          # Optional primary button
+      text: Learn More
+      link: /contact
+    secondaryCta:                        # Optional secondary button
+      text: View Details
+      link: /about
+
+  # ==========================================
+  # SECTION-ALT BLOCK
+  # ==========================================
+  # Section with gradient background (slate/blue)
+  # Same options as section, different styling
+  - type: section-alt
+    badge: Featured                      # Optional badge above headline
+    headline: "Alternate <span class='gradient-text'>Section</span>"
+    subheadline: This section has a gradient background with decorative blurs
+    align: center                        # left, center, or right (default: center)
+    height: large                        # small, medium, or large (default: medium)
+    primaryCta:
+      text: Get Started
+      link: /contact
+
 ---
 
 # Markdown Content Section
