@@ -12,6 +12,7 @@ blocks:
       link: /contact
     secondaryCta:
       text: Explore Solutions
+      align: center
       link: /solutions
     stats:
       - value: "2500+"
