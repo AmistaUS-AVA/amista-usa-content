@@ -3,6 +3,9 @@ title: Contact Us
 description: Get in touch with Amista USA. We'd love to hear from you.
 
 blocks:
+  - type: spacer
+    height: 30
+    
   - type: section
     badge: Get In Touch
     headline: "Let's Start a <span class='gradient-text'>Conversation</span>"
