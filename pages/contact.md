@@ -7,7 +7,7 @@ blocks:
     badge: Get In Touch
     headline: "Let's Start a <span class='gradient-text'>Conversation</span>"
     subheadline: Have questions about our solutions? Want to schedule a demo? Our team is here to help you find the right solution for your business.
-    height: small
+    height: medium
     align: center
 
   - type: contact
