@@ -10,7 +10,7 @@ blocks:
     subheadline: For over 15 years, Amista USA has been helping mid-market companies unlock their potential through intelligent business solutions. We combine deep SAP expertise with industry knowledge to deliver transformative results.
 
   - type: split
-    image: uploads/wisys-warehouse.png
+    image: /uploads/wisys-warehouse.png
     imageAlt: Amista USA Mission
     imagePosition: right
     title: "Empowering Businesses to <span class='gradient-text'>Thrive</span>"
