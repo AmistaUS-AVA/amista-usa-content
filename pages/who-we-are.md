@@ -25,15 +25,15 @@ blocks:
         image: /uploads/scott-frandsen.png
         description: Leading Amista USA with over 20 years of ERP implementation experience.
       - name: Andreas von Arx
-        role: Partner
+        role: VP Manufacturing & Development
         image: /uploads/andreas-von-arx.png
         description: Expert in manufacturing solutions and SAP Business One implementations.
       - name: Jan Van Gemert
-        role: Partner
+        role: VP Logistics Solutions
         image: /uploads/jan-van-gemert.png
         description: Specialist in warehouse management and supply chain solutions.
       - name: Allison Hill
-        role: Director of Operations
+        role: VP of Operations
         image: /uploads/allison-hill.png
         description: Ensuring seamless project delivery and client satisfaction.
 
