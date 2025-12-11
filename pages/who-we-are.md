@@ -3,7 +3,8 @@ title: Who We Are
 description: Learn about Amista USA - your trusted SAP Partner helping mid-market companies achieve their business goals through intelligent ERP solutions.
 
 blocks:
-  - type: hero
+  - type: section
+    size: large
     badge: About Us
     headline: "Your Partner in <span class='gradient-text'>Digital Transformation</span>"
     subheadline: For over 15 years, Amista USA has been helping mid-market companies unlock their potential through intelligent business solutions. We combine deep SAP expertise with industry knowledge to deliver transformative results.
